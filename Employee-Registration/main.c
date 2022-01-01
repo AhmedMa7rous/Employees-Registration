@@ -528,10 +528,9 @@ void delete_all(){
     return;
 	}
 
-    printf("Do you want to delete all Employees Y or N?\n");
-
     while(keyPressed != 13){
         system("cls");
+	printf("Do you want to delete all Employees Y or N?\n");
         printf("\t\t"); arrow_here(1, position); printf(" Yes \n");
         printf("\t\t"); arrow_here(2, position); printf(" No \n");
         keyPressed = getch();
