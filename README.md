@@ -2,6 +2,9 @@
 This project build to help in record Employees information for a company or a business using C programming language.
 this project has a useful function to make it easy to add Employee info 
 
+# Don't forget to star 🌟 this work if like it :v: ✌️. 
+
+
 ## Main Menu:
 ![image](https://user-images.githubusercontent.com/33738409/147841976-7da0dc8f-b1e9-4cc4-9c0b-43e39db55dec.png)
 
@@ -76,4 +79,3 @@ the program will not let you do this by repeat the statment to enter different o
 
 
 # Finally I hope it help 
-# Don't forget to star 🌟 this work if like it :v: ✌️. 
