@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640989980 source:e:\c projects\employee-registration\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
